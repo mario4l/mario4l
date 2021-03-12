@@ -1,7 +1,7 @@
 - 👋 Hello, hi. I'm Mario...
 - 🕸 dev betting on JavaScript, but loves tinkering with Python 🌱
 - 🚴‍♂️ lunchtime and weekend cyclist
-https://mario4l.github.io/
+- 💼 https://mario4l.github.io/
 
 <!---
 mario4l/mario4l is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
