@@ -1,5 +1,5 @@
 - 👋 Hello, hi. I'm Mario...
-- 🕸 dev betting on JavaScript, but loves tinkering with all technologies 🌱
+- 🕸 dev
 - 🚴‍♂️ lunchtime and weekend cyclist
 - 💼 https://mario4l.github.io/
 
